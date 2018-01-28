@@ -9,10 +9,6 @@ console.log('__dirname : ', path.join(__dirname, 'public'));
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/test-api', function (req, res) {
-  res.send(req.params)
-});
-
 // Listen for requests
 var server = app.listen(app.get('port'), function() {
   var port = server.address().port;
