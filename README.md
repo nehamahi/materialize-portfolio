@@ -1,4 +1,5 @@
-#Matrialize-Portfolio
+
+# Matrialize-Portfolio
 
 A portfolio template designed using Materialize.
 
@@ -10,11 +11,16 @@ Inspiration is to Materialize my portfolio website [ http://2014.nikhilmaheshwar
 
 ## Installation
 
-Modify below in existing code : 1. Website Logo 2. Images 3. Content 4. Contact form
+Please follow the below steps :
+1. git clone https://github.com/nehamahi/materialize-portfolio.git
+2. npm install
+3. node app.js
+4. go to http://localhost:8080/
 
 ## Contributors
 
 Nikhil Maheshwari  [ http://www.nikhilmaheshwari.com ]
+Neha Maheshwari   [ https://github.com/nehamahi ]
 
 ## Demo
 
